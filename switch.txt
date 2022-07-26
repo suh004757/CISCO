@@ -1,4 +1,0 @@
-# IP		PORT	USER	PASSWD	PROTOCOL	VENDOR (Remove this line)
-192.168.0.1	2511	admin	pwd1	telnet	extreme
-192.168.0.2	22	root	pwd2	ssh	cisco
-192.168.0.3	22	admin	pwd3	ssh	extreme
